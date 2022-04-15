@@ -13,4 +13,9 @@
       -[HTML]
       -[Javascript]
       -[OpenWeatherAPI]
+      
+   ## Visualization
    
+   
+![weatherdashboard 1](https://user-images.githubusercontent.com/60993926/163606796-c5af08ae-d876-45bf-a81e-57180364b4b9.png)
+![weatherdashboard 2](https://user-images.githubusercontent.com/60993926/163606803-fff474f9-127c-46dd-ac4f-f5bfbf7eb789.png)
