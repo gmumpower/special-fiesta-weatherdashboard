@@ -3,7 +3,7 @@
    ## Deployed Application: https://gmumpower.github.io/special-fiesta-weatherdashboard/
 
    ### Description
-   This is a a minimalist Weather Dashboard application display use the Open Weather APi. This app allows a user to search for cities, and obtain information such as Temperature, Humidity, Wind Speed, and a UV index as well. Use of display to show a 5-day weather forecast.
+   This is a minimalist Weather Dashboard application display used the Open Weather APi. This app allows a user to search for cities, and obtain information such as Temperature, Humidity, Wind Speed, and a UV index as well. Use of display to show a 5-day weather forecast.
       
    #### Usage
    Search for your interested city or state, and you will find related weather information to that search in a 5-day forecast.
